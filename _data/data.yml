@@ -31,13 +31,13 @@ sidebar:
 
 
     interests:
-      - item: Climbing
+      - item: Traveling
         link:
 
-      - item: Snowboarding
+      - item: Listening
         link:
 
-      - item: Cooking
+      - item: Reading
         link:
 
 
@@ -45,13 +45,18 @@ career-about:
   title: Personal Details
   summary: |
     Gender         : Female
+
     Date of Birth  : 26 May 1997
+
     Nationality    : Myanmar
-    Religion       : Buddhist
+
     Marital Status : Single
-    Languages      : English, Myanmar
+
+    Languages      : Myanmar, English
     
     Address        : 174-0041	1-16-23-511 Fundo,Itabashi-ku,Tokyo,Japan.
+
+
 
 career-profile:
     title: About
