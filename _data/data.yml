@@ -51,33 +51,21 @@ education:
       university: University of Computer Studies ,Yangon(UCSY)
       time: 2012 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+
           - Bullet point
           - Bullet point
     - degree: Certificate of Completion (JAVA Training )	 
       university: Tokyo IT School
       time: 1/8/2019 - 31/10/2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+
           - Bullet point
           - Bullet point
     - degree: Certificate of Result and score of N3	 
       university: Japanese-Language Proficiency Test(JLPT)
       time: 2019 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+
           - Bullet point
           - Bullet point
 
@@ -86,16 +74,14 @@ experiences:
       time: August 2019 - Present
       company: Nisseicom Co.ltd,Tokyo,Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. 
+
           - Developer of Accounting System using Java,Javascript,HTML,CSS
 
     - role: Developer
       time: Nov 2019 -July 2020
       company: Sunmelx Co.ltd,Tokyo,Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
+
           - Developer of internal inventory management system using Filemaker(Take on digital transformation. Build custom apps.
           - Automate workflows. All with the world's leading Workplace Innovation Platform.
 
@@ -103,8 +89,7 @@ experiences:
       time: August 2019 - October 2019
       company: Tokyo IT School,Tokyo,Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
+
           - Training of Java/Oracle/HTML/JavaScript
           - Group work and Development Training
 
@@ -112,8 +97,7 @@ experiences:
       time: May 2019 - July 2019
       company: Sunmelx Co.ltd,Tokyo Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
+
           - Participated in the internship program in japan
           - Learned the Japanese working environment and manner of work
           - Continue to manage work attendance system using FileMaker
@@ -122,8 +106,7 @@ experiences:
       time: June 2018 - April 2019
       company: Myanmar Doraku Co.ltd,Yangon Myanmar
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
+
           - Participated in the internship program for final year project in Myanmar
           - Learned the Japanese working environment and manner of work
           - Started developing an attendance system using FileMaker with two other members
@@ -142,48 +125,48 @@ projects:
         link: "#hook"
         tagline: "Participated in the internship program in Myanmar with three members of group, Started developing an attendance system using FileMaker with two other members."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: JAVA
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: PHP
+        level: 75%
+
+      - name: HTML/CSS
+        level: 80%
+
+      - name: Filemaker
+        level: 65%
+
+      - name: Javascript
+        level: 65%
+
+      - name: Git
         level: 60%
 
 footer: >
