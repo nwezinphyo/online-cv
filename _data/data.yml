@@ -124,9 +124,8 @@ projects:
     assignments:
       - title: Internship Program for final year project
         link: "#"
-        tagline: | 
-        - Participated in the internship program in Myanmar with three members of group.
-        - Started developing an attendance system using FileMaker with two other members.
+        tagline: " Participated in the internship program in Myanmar with three members of group. 
+         Started developing an attendance system using FileMaker with two other members."
 
 # publications:
 #     title: Publications
