@@ -52,7 +52,7 @@ career-about:
 
     Marital Status : Single
 
-    Languages      : Myanmar, English
+    Languages      : Myanmar, English & Japan
     
     Address        : 174-0041	1-16-23-511 Fundo,Itabashi-ku,Tokyo,Japan.
 
@@ -75,7 +75,7 @@ education:
       details: 
     - degree: Certificate of Result and score of N3	 
       university: Japanese-Language Proficiency Test(JLPT)
-      time: 2019 - 2019
+      time: 7/2019
       details: 
 
 experiences:
@@ -159,19 +159,19 @@ skills:
 
     toolset:
       - name: JAVA
-        level: 85%
+        level: 90%
 
       - name: PHP
         level: 75%
 
       - name: HTML/CSS
-        level: 80%
+        level: 85%
 
       - name: Filemaker
         level: 65%
 
       - name: Javascript
-        level: 65%
+        level: 70%
 
       - name: Git
         level: 60%
