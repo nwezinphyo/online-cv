@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -54,7 +54,7 @@ career-about:
     Address        : 174-0041	1-16-23-511 Fundo,Itabashi-ku,Tokyo,Japan.
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
       I have more than 2 years of experience in my professional journey with strong background on web development and Japanese design documents . Looking to leverage my knowledge and experience into a role as project manager.
 
@@ -63,24 +63,15 @@ education:
     - degree: Bachelor of Computer Science (B.C.Sc)
       university: University of Computer Studies ,Yangon(UCSY)
       time: 2012 - 2018
-      details: |
-
-          - Bullet point
-          - Bullet point
+      details: 
     - degree: Certificate of Completion (JAVA Training )	 
       university: Tokyo IT School
       time: 1/8/2019 - 31/10/2019
-      details: |
-
-          - Bullet point
-          - Bullet point
+      details: 
     - degree: Certificate of Result and score of N3	 
       university: Japanese-Language Proficiency Test(JLPT)
       time: 2019 - 2019
-      details: |
-
-          - Bullet point
-          - Bullet point
+      details: 
 
 experiences:
     - role: Developer
@@ -129,14 +120,13 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
       - title: Internship Program for final year project
-        link: "#hook"
-        tagline: "Participated in the internship program in Myanmar with three members of group, Started developing an attendance system using FileMaker with two other members."
+        link: "#"
+        tagline: | 
+        - Participated in the internship program in Myanmar with three members of group.
+        - Started developing an attendance system using FileMaker with two other members.
 
 # publications:
 #     title: Publications
@@ -182,5 +172,5 @@ skills:
       - name: Git
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
